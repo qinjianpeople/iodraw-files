@@ -42,8 +42,11 @@
         <mxCell id="lDauhrvklz3JuYxtEpn7-13" value="1. 业务逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lDauhrvklz3JuYxtEpn7-11">
           <mxGeometry x="-1" y="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lDauhrvklz3JuYxtEpn7-14" value="2.请求转发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="418" width="80" height="30" as="geometry" />
+        <mxCell id="lDauhrvklz3JuYxtEpn7-14" value="2.请求转发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lDauhrvklz3JuYxtEpn7-11">
+          <mxGeometry y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lDauhrvklz3JuYxtEpn7-15" value="2.请求转发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lDauhrvklz3JuYxtEpn7-11">
+          <mxGeometry x="-1" y="90" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
