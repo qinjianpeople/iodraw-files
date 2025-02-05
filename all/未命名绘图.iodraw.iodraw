@@ -33,6 +33,9 @@
             <mxPoint x="530" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lDauhrvklz3JuYxtEpn7-11" value="内容" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
