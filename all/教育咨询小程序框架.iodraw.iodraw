@@ -57,6 +57,9 @@
         <mxCell id="lDauhrvklz3JuYxtEpn7-18" value="1. GPT训练" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lDauhrvklz3JuYxtEpn7-16">
           <mxGeometry x="-10" y="30" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lDauhrvklz3JuYxtEpn7-21" value="2.训练内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lDauhrvklz3JuYxtEpn7-16">
+          <mxGeometry x="-5" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
